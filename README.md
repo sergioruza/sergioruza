@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/sergio_ruza" target="blank"><img src="https://img.shields.io/twitter/follow/sergio_ruza?logo=twitter&style=for-the-badge" alt="sergio_ruza" /></a> </p>
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento web full-stack**
+- 🌱 Atualmente estudando **Desenvolvimento web full-stack**
 
 - 📫 Como chegar até mim **sergioruza22@gmail.com**
 
