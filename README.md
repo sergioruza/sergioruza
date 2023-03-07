@@ -3,7 +3,7 @@
 # 💫 Sobre mim:
 - Sérgio Ruza
 - 18 anos
-- Atualmente estudante de **Desenvolvimento web full-stack**
+- Desenvolvedor web FullStack Jr.
 
 ### 🤔 O que gosto de fazer?:
 - Ser desafiado
