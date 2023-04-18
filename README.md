@@ -2,7 +2,7 @@
 
 # 💫 Sobre mim:
 - Sérgio Ruza
-- 18 anos
+- 19 anos
 - Desenvolvedor web FullStack Jr com uma queda a mais pelo backend.
 
 ### 🤔 O que gosto de fazer?:
