@@ -31,3 +31,39 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=sergioruza&icon=2&color=12)](https://visitcount.itsvg.in)
+
+[javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white
+[javascript-url]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps
+
+[typescript]: https://img.shields.io/badge/-typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black
+[typescript-url]: https://www.typescriptlang.org/
+
+[docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=black
+[docker-url]: https://docs.docker.com/
+
+[docker]: https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=docker&logoColor=black
+[docker-url]: https://docs.docker.com/
+
+[node]: https://img.shields.io/badge/-node-339933?style=for-the-badge&logo=nodedotjs&logoColor=black
+[node-url]: https://nodejs.org/en/docs
+
+[EXPRESS]: https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black
+[EXPRESS-url]: https://expressjs.com
+
+[MYSQL]: https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white
+[MYSQL-url]: https://www.mysql.com
+
+[mongo]: https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=black
+[mongo-url]: https://www.mongodb.com/
+
+[REACT]: https://img.shields.io/badge/-React.js-20232A?style=for-the-badge&logo=react
+[REACT-url]: https://legacy.reactjs.org/docs/getting-started.html
+
+[CSS3]: https://img.shields.io/badge/css_3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[CSS3-url]: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+[Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io/pt-BR/
+
+[Mocha]: https://img.shields.io/badge/MOCHA-6D4A31?style=for-the-badge&logo=mocha&logoColor=white
+[Mocha-url]: https://mochajs.org
