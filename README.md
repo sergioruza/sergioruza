@@ -2,7 +2,6 @@
 
 # 💫 Sobre mim:
 - Sérgio Ruza
-- 19 anos
 - Desenvolvedor web FullStack Jr com uma queda a mais pelo backend.
 
 ### 🤔 O que gosto de fazer?:
@@ -11,10 +10,10 @@
 - Jogar
 - Criar coisas
 
-## 🌐 Socials:
+## 🌐 Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dev-sergio-ruza)
 
-# 💻 Tech Stack:
+# 💻 Habilidades Técnicas:
 [![JavaScript][JavaScript]][JavaScript-url]
 [![typescript][typescript]][typescript-url]
 [![Docker][Docker]][Docker-url]  
@@ -36,13 +35,9 @@ Testes
 
 
 
-# 📊 GitHub Stats:
+# 📊 Status:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sergioruza&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Dev Quote
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
----
 [![](https://visitcount.itsvg.in/api?id=sergioruza&icon=2&color=12)](https://visitcount.itsvg.in)
 
 [javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javaScript&logoColor=white
