@@ -2,7 +2,7 @@
 
 # 💫 Sobre mim:
 - Sérgio Ruza
-- Desenvolvedor web FullStack Jr.
+- Desenvolvedor web FullStack.
 
 ### 🤔 O que gosto de fazer?:
 - Ser desafiado
