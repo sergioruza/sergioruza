@@ -2,7 +2,7 @@
 
 # 💫 Sobre mim:
 - Sérgio Ruza
-- Desenvolvedor web Back-End.
+- Desenvolvedor Back-End.
 
 ### 🤔 O que gosto de fazer?:
 - Ser desafiado
