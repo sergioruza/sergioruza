@@ -2,7 +2,7 @@
 
 # 💫 Sobre mim:
 - Sérgio Ruza
-- Desenvolvedor Back-End.
+- Desenvolvedor FullStack com uma queda maior pelo Back-End.
 
 ### 🤔 O que gosto de fazer?:
 - Ser desafiado
